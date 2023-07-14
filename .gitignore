@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyi
+
+# Environment
+.env
+
+# IDE/Editor
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled/Generated Files
+*.pyc
+*.class
+*.o
+*.obj
+
+# Logs and Debugging
+logs/
+*.log
+debug.log
+
+# Dependency Directories
+venv/
+env/
+env-bak/
+
+# Build Files
+dist/
+build/
+*.egg-info/
+
+# macOS
+.DS_Store
