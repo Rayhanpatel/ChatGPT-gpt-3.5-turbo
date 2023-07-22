@@ -50,6 +50,10 @@ If you would like to contribute to this project, you can fork the repository, ma
 
 Please ensure that your code follows the project's coding conventions and includes appropriate documentation.
 
+## License
+
+This ChatGPT application is licensed under the [MIT License](LICENSE).
+
 ## Acknowledgements
 
 This project utilizes OpenAI's GPT-3.5 model and the Streamlit library. Special thanks to the developers and contributors of these tools.
